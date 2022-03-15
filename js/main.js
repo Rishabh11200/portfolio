@@ -22,7 +22,7 @@ toggle.addEventListener("click", toggleMenu, false);
 /*Script for Typing effect */
    
     // List of sentences
-    var _CONTENT = ["Rishabh", "Shah"];
+    var _CONTENT = ["Rishabh Shah"];
 
     // Current sentence being processed
     var _PART = 0;

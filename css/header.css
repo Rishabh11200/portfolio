@@ -73,9 +73,8 @@ header {
 #text {
     display: inline-block;
     color: white;
-    text-shadow: 2px 2px 5px rgb(144, 248, 144);
     border-right: 3px solid #e00909f4;
-    font-family: Lucida Console;
+    font-family: 'Poppins', sans-serif;
     font-size: larger;
 }
 
